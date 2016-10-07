@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Game</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_done">Done</string>
+    <string name="number_of_dice">Number of Dice</string>
+    <string name="dice_range">Dice Upper Range</string>
+</resources>
